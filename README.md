@@ -24,7 +24,7 @@ Hosting: AWS S3
 
 
 
-I've created a README file for your WaterStrike project, covering its features, setup, and deployment. Let me know if you'd like any modifications! 🚀
+I've created a  WaterStrike project, covering its features, setup, and deployment. 🚀
 
 
 
